@@ -1,0 +1,12 @@
+
+# -- --------------------------------------------------------------------------------------------------- -- #
+# -- Project: Homework for class MSC1007A (Machine Learning) - M.Sc in Data Science - ITESO              -- #
+# -- File: requirements.txt - libraries and dependencies to run the file and the notebook                -- #
+# -- Author: IFFranciscoME - if.francisco.me@gmail.com                                                   -- #
+# -- License: GPL-3.0 License                                                                            -- #
+# -- Repository: https://github.com/IFFranciscoME/ML_Gradient_Descent                                    -- #
+# -- --------------------------------------------------------------------------------------------------- -- #
+
+numpy>=1.19.4
+pandas>=1.1.4
+plotly>=4.12
